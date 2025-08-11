@@ -110,7 +110,7 @@ button:hover {
 }
 
 header .mainheading {
-  margin: 150px auto;
+  margin: 150px 0px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1133,6 +1133,7 @@ i:hover {
   column-gap: 180px;
   font-size: 12px;
 }
+
 
 
 
